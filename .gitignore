@@ -112,9 +112,16 @@ dmypy.json
 
 # Machine learning specific folders and symlinks
 runs
-/data
+*/data/Train
+*/data/Test
+*/data/Meta
+*/data/Augmented_Balanced_Train
+*/data/Meta.csv
+*/data/Train.csv
+*/data/Test.csv
 /datasets
-*/data
+/data
+
 
 # Datasets and model checkpoints
 *.pth
@@ -123,7 +130,7 @@ runs
 *.onnx
 
 # Image files
-*.png
+
 *.jpg
 *.jpeg
 *.gif
