@@ -11,6 +11,8 @@
 ## ECE - 5831 Final Project
     This is private repo for final project from course ECE 5831. Breifly explains the datasets, presentations, report, and a demo video link.
 
+    presentation link: https://youtu.be/PWsSp1XHrxY
+
 ### Overview
 This project focuses on classifying and recognizing GTSDB traffic signs, utilizing advanced techniques such as `Convolutional Neural Networks (CNN)` and the `YOLO v11` classification framework. By implementing these technologies, the project aims to accurately identify and categorize various traffic signs, enhancing the effectiveness of intelligent transportation systems.
 
