@@ -116,6 +116,7 @@ runs
 */data/Test
 */data/Meta
 */data/Augmented_Balanced_Train
+*/data/Augmented2_Train
 */data/Meta.csv
 */data/Train.csv
 */data/Test.csv
@@ -154,3 +155,20 @@ node_modules/
 
 # Not ignore image for demo
 !demo/images/*/*.png
+
+*project/data/aug2_train.csv
+*project/best_model.keras
+*project/cnn_500.h5
+
+*project/yolo.ipynb
+*project/final-project1.ipynb
+
+*project/final-project copy.ipynb
+
+*project/traffic_sign_classifier.h5
+
+*project/draft2.ipynb
+
+*project/draft1.ipynb
+
+*project/data.yaml
