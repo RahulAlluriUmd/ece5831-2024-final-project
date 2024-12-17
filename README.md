@@ -5,6 +5,20 @@
     * [Overview](#overview)
     * [Dataset](#Dataset)
     * [CNN](#cnn)
+    
+        * [Pre-processing](#Pre-processing)
+        * [Architecture](#Architecture)
+    * [YOLOv11](#YOLOv11)
+        
+        * [Pre-processing](#Pre-processing)
+        * [Model Parameters](#Model Parameters)
+        * [Inferance](#Inferance)
+    * [Presentation](#Presentation)
+    * [Report](#Report)
+    * [Demo Video](#demo-video)
+    * [Drive](#drive)
+
+
 
 
 
@@ -23,7 +37,7 @@ The initial dataset was successffully downloaded from [Kaggle][01] and also acce
 ### CNN
 We will develop a `Convolutional Neural Network (CNN)` to help us sort and categorize images based on their content. CNNs are particularly well-suited for this task because they use layers of convolutional filters to automatically learn and identify image patterns and features, making them highly effective for image classification. This approach allows us to efficiently organize our images into distinct categories based on visual characteristics.
 
-#### pre-processing
+#### Pre-processing
 Initially, we attempted to train the entire dataset; however, due to hardware issues, the kernel kept crashing. To address this problem, we sampled the data and selected 500 images from each class for training while setting aside 20% of this data for validation.
 
 For some classes, the number of training images was less than 500. In these cases, we performed data augmentation to generate synthetic data. For courses with more than 500 images, we randomly selected 500 samples, ensuring a diverse range of images rather than using similar types from the same class.
