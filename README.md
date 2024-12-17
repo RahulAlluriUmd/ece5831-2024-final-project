@@ -11,7 +11,7 @@
     * [YOLOv11](#YOLOv11)
         
         * [Pre-processing](#Pre-processing)
-        * [Model Parameters](#Model Parameters)
+        * [Model Parameters](#model-parameters)
         * [Inferance](#Inferance)
     * [Presentation](#Presentation)
     * [Report](#Report)
@@ -23,7 +23,7 @@
 
 
 ## ECE - 5831 Final Project
-    This is private repo for final project from course ECE 5831. Breifly explains the datasets, presentations, report, and a demo video link.
+    This public repository serves as the final project for the course ECE 5831. Within this repository, you will find detailed descriptions of the datasets utilized and the presentations and reports created as part of the project. Here is a demo video link showcasing our work's key features and findings.
 
     presentation link: https://youtu.be/PWsSp1XHrxY
     Code Demo: https://youtu.be/kHwqIJc1rS8
