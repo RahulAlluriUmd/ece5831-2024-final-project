@@ -58,7 +58,7 @@ Initially, we attempted to train the entire dataset; however, due to hardware is
 For some classes, the number of training images was less than 500. In these cases, we performed data augmentation to generate synthetic data. For courses with more than 500 images, we randomly selected 500 samples, ensuring a diverse range of images rather than using similar types from the same class.
 
 #### Architecture
-![CNN_model_architecture](project/images/CNN_model_architecture.jpeg)
+![CNN_model_architecture](project/images/CNN_model_architecture1.jpeg)
 
 ### YOLOv11
 [YOLO v11][02] is the latest version from YOLO series released in september 2024 from [ultralytics][03]. Had the various improvments in key features like `Enhanced Feature Extraction`, `Optimized for Efficiency and Speed`, `Greater Accuracy with Fewer Parameters` to name few.
