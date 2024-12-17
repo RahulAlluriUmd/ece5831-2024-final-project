@@ -31,6 +31,21 @@
 ### Overview
 This project focuses on classifying and recognizing GTSDB traffic signs, utilizing advanced techniques such as `Convolutional Neural Networks (CNN)` and the `YOLO v11` classification framework. By implementing these technologies, the project aims to accurately identify and categorize various traffic signs, enhancing the effectiveness of intelligent transportation systems.
 
+Please make sure below requirments are installed.
+
+#### Requirements
+```bash
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install opencv-python
+pip install random2
+pip install scikit-learn 
+pip install tensorflow==2.18.0
+pip install albumentations
+pip install ultralytics==8.3.49
+```
+
 ### Dataset
 The initial dataset was successffully downloaded from [Kaggle][01] and also accessible from [google-drive][10]. In total, there are 39209 sample images spread across 43 classes.
 
