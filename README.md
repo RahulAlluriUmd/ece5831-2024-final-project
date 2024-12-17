@@ -74,11 +74,12 @@ All the parameters for train-setting can be found [here][05].
 
 ### Presentation
 
-Detailed presentation can be accessed from [here][06].
+Detailed presentation slides can be accessed from [here][06].
+Presentation video placed in [youtube][11]
 
 ### Report
 
-[Report][07] 
+[Report][07]
 
 ### Demo video
 
@@ -95,8 +96,9 @@ Entire project is accessible from [google-drive][09]
 [03]: https://www.ultralytics.com/
 [04]: https://docs.ultralytics.com/tasks/classify/#models
 [05]: https://docs.ultralytics.com/usage/cfg/#train-settings
-[06]: https://drive.google.com/drive/folders/1R8MJjjtUl_aGa_iuz64tkUF_AjdMrIHa?usp=sharing
-[07]: https://drive.google.com/drive/folders/1R8MJjjtUl_aGa_iuz64tkUF_AjdMrIHa?usp=sharing
-[08]: https://drive.google.com/drive/folders/1R8MJjjtUl_aGa_iuz64tkUF_AjdMrIHa?usp=sharing
-[09]: https://drive.google.com/drive/folders/1R8MJjjtUl_aGa_iuz64tkUF_AjdMrIHa?usp=sharing
+[06]: https://drive.google.com/drive/folders/1DShEKsFrS3G_HIuqNg99KLAyR86CBugv?usp=sharing
+[07]: https://drive.google.com/drive/folders/1eZpeJsTrAb7Vi0glLaD6LhWd8L9_xlUg?usp=sharing
+[08]: https://youtu.be/kHwqIJc1rS8
+[09]: https://drive.google.com/drive/folders/1hOB5ca8_JNWU8ilpoX9aRbKeBhMTlcI5?usp=sharing
 [10]: https://drive.google.com/drive/folders/1BeG7f-_2BksgPQPjyQopV6oXn-3Et2Qo?usp=drive_link
+[11]: https://youtu.be/PWsSp1XHrxY
