@@ -131,7 +131,7 @@ runs
 */data/Test.csv
 /datasets
 /data
-
+*/data/aug_train.csv
 
 # Datasets and model checkpoints
 *.pth
@@ -181,3 +181,5 @@ node_modules/
 *project/draft1.ipynb
 
 *project/data.yaml
+
+*project/Augmented_Train
