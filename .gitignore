@@ -149,7 +149,6 @@ runs
 *.ico
 
 # Video files
-*.mp4
 *.avi
 *.mov
 *.mkv
